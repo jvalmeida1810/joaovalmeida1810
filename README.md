@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Estudante do IFPB Campus Catolé do Rocha
+Estudante do IFPB Campus Catolé do Rocha e faço o curso técnico de informática.
 
 ## 🌐 Socials:
 
