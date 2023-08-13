@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Estudante do IFPB Campus Catolé do Rocha e faço o curso técnico de informática.
+Hello! My name is João Vitor. I am currently a Back-End Developer. 
 
 ## 🌐 Socials:
 
@@ -9,22 +9,6 @@ Estudante do IFPB Campus Catolé do Rocha e faço o curso técnico de informáti
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=joaovalmeida1810&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaovalmeida1810&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovalmeida1810&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=joaovalmeida1810&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=joaovalmeida1810&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
